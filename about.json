@@ -1,0 +1,7 @@
+{
+  "name": "custom-pages",
+  "about_url": "https://example.com/about",
+  "license_url": "https://example.com/license",
+  "authors": ["Pushpender Singh"],
+  "component": true
+}
